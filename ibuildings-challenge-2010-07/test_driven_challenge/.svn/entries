@@ -1,31 +1,0 @@
-8
-
-dir
-2
-file:///global/repository/ibuildings-challenge/trunk/test_driven_challenge
-file:///global/repository/ibuildings-challenge
-
-
-
-2010-06-16T20:58:16.419058Z
-2
-root
-
-
-svn:special svn:externals svn:needs-lock
-
-test
-dir
-
-NumberCruncher.php
-file
-5
-
-
-
-2010-06-16T21:27:44.000000Z
-3a64031ce6e4ccdf43ff6c87738f5899
-2010-06-16T21:28:16.955580Z
-5
-root
-
